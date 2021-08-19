@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, software engineering and computer vision.
 - 🌱 I’m currently graduated and looking for a job.
 - 💞️ I’m looking to collaborate on open source project.
-- 📫 How to reach me: jl125@illinois.edu
+- 📫 How to reach me: jl125@illinois.edu or raymondmarslinnn@gmail.com
 
 <!---
 raymondlinnn/raymondlinnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
